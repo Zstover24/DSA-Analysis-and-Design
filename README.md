@@ -313,3 +313,6 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
+
+
+The problem i was solving was giving academic advisors a program to load courses into that would then sort and store them to be searched and printed at a later date. I approached this by using a hashtable i know now that a BST would have been better for sorting and searching the list and a vector would have been easier to implement but hopefully i can use this as a learning experience moving forward and apply this in another project or in a real worl problem. At first i had quite a few issues with my code that took about a week to get all of the kinks out. Persistence and sometimes taking a step back and taking a break so i can reflect on what may actually be causing the problems was extremely helpful in overcoming all of my challenges. 
